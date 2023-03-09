@@ -1,0 +1,283 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Mynerve&family=Shantell+Sans:ital@1&display=swap');
+.z2{
+    height:20px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Mynerve', cursive; 
+}
+.z1{
+    color: orangered; 
+    font-family: 'Shantell Sans', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: 100px;
+}
+.z3{
+    color: white;
+    font-size: 20px;
+    font-family: 'Mynerve', cursive; 
+}
+.q1{
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+img{
+    width:300px;
+}
+.p1{
+    width: 300px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Mynerve', cursive; 
+    background:linear-gradient(to right, rgb(255, 102, 0) , rgb(241, 177, 93)) ;
+}
+.p2{
+    width: 300px;
+    height: 50px;
+    background-color: grey;
+    color: white;
+    border:1px solid white;
+    border-radius: 30px;
+    font-family: 'Mynerve', cursive;
+font-family: 'Shantell Sans', cursive;
+font-size: 20px;
+background:linear-gradient(to left, rgb(97, 93, 93), rgb(51, 48, 48)) ;
+}
+.flex_btn{ 
+    margin-left: 70px;
+    margin-top: 40px;
+}
+body{
+        background-color: #222126 ;
+}
+.e1{
+   width: 70px; 
+   margin-left: 70px;
+}
+.box1{
+    width: 300px;
+}
+.e2{
+    color: white;
+    font-family: 'Mynerve', cursive;
+    font-weight: bold;
+    font-size: 16px;
+}
+.ch1{
+    width: 220px;
+}
+.e3{
+    color: #8A8888;
+   
+}
+.r1{
+    width: 70px;
+    margin-left: 55px;
+}
+.wev{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+}
+.r2{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Mynerve', cursive;
+}
+.r3{
+    color:#8A8888 ;
+    width: 265px;
+   
+}
+.ch2{
+    width: 250px;
+    transform: translate(360px,-70px)
+}
+.w1{
+    width: 70px;
+    margin-left: 65px;
+}
+.w2{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Mynerve', cursive;
+}
+.w3{
+    width: 360px;
+    color: #8A8888;
+}
+.m1{
+    color: white;
+    font-weight: bold;
+    font-size: 70px;
+    font-family: 'Mynerve', cursive;
+    margin-left: 200px;
+    margin-top: 90px;
+}
+.m2{
+    font-weight: bold;
+    font-size: 70px;
+    font-family: 'Mynerve', cursive; 
+    margin-left: 300px;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(to right, rgb(255, 69, 0), rgb(241, 177, 93))
+}
+.f1{
+    color:#8A8888;
+    font-family: 'Mynerve', cursive; 
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 180px;
+    margin-top: 7px;
+}
+.s1{
+    width: 370px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Mynerve', cursive; 
+    margin-left: 420px;
+    margin-top: 40px;
+}
+.s2{
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(to right, rgb(255, 69, 0), rgb(241, 177, 93));
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 89px;
+    font-family: 'Mynerve', cursive;
+}
+.s3{
+    color: #8A8888;
+    font-family: 'Mynerve', cursive;
+    margin-left: 60px;
+    font-size: 17px;
+}
+.x1{
+    color: white;
+    margin-left: 48px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Mynerve', cursive; 
+}
+.l1{
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: 185px;
+    font-family: 'Mynerve', cursive; 
+}
+.l2{
+    color: #8A8888;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Mynerve', cursive;
+    margin-left: 47px;
+}
+.l3{
+    color: #8A8888;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Mynerve', cursive;
+    margin-left: 47px;
+}
+.l4{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Mynerve', cursive;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(to right, rgb(255, 69, 0), rgb(241, 177, 93));
+    margin-left: 170px; 
+}
+.l5{
+    font-family: 'Mynerve', cursive;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 45px;
+}
+.l6{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Mynerve', cursive;
+    margin-left: 45px;
+}
+.main3{
+    display: flex;
+    justify-content: space-around;
+}
+ 
+.u1{
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(to right, rgb(255, 69, 0), rgb(241, 177, 93));
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: 'Mynerve', cursive;
+}
+.u2{
+    color: #8A8888;
+    font-family: 'Mynerve', cursive;
+    font-size: 17px;
+}
+.d1{
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: 169px;
+    font-family: 'Mynerve', cursive; 
+}
+.d2{
+    color: #8A8888;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Mynerve', cursive;
+}
+.d3{
+    color: #8A8888;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Mynerve', cursive;
+}
+.d4{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Mynerve', cursive;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(to right, rgb(255, 69, 0), rgb(241, 177, 93));
+    margin-left: 157px;  
+}
+.d5{
+    font-family: 'Mynerve', cursive;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.d6{
+    font-family: 'Mynerve', cursive;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+ 
